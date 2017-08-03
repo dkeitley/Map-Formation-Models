@@ -1,2 +1,8 @@
 numpy
 matplotlib
+random
+math
+sys
+scipy
+time
+ipywidgets
