@@ -7,7 +7,8 @@ models of neural map formation (Willshaw and von der Malsburg, 1976;
 They have also been designed to run on the mybinder service (in beta as
 of August 2017).  Please use the following links to run the models:
 
-[Neural activity model (julia)](https://beta.mybinder.org/v2/gh/dkeitley/Map-Formation-Models/julia)
+[Neural activity model (julia)](https://beta.mybinder.org/v2/gh/dkeitley/Map-Formation-Models/julia)  
+
 [Marker induction model 1979, 2006 and neural activity model (python)](https://beta.mybinder.org/v2/gh/dkeitley/Map-Formation-Models/master)
 
 Note that the beta mybinder service may not always be up.
