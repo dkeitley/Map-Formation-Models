@@ -22,3 +22,9 @@ can be set up by self-organization. Proc R Soc Lond B Biol Sci
 Willshaw DJ, von der Malsburg C (1979) A marker induction mechanism for
 the establishment of ordered neural mappings: its application to the
 retinotectal problem. Philos Trans R Soc Lond B Biol Sci 287:203–243.
+
+## Acknowledgments
+
+We are grateful to the BBSRC for financially supporting this project
+through a Research Experience Placement scheme (DTP reference
+BB/M011194/1).
