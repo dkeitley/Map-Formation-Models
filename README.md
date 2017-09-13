@@ -26,6 +26,15 @@ retinotectal problem. Philos Trans R Soc Lond B Biol Sci 287:203–243.
 
 ## Acknowledgments
 
-We are grateful to the BBSRC for financially supporting this project
+We are grateful to the BBSRC for financially supporting this projectTom
 through a Research Experience Placement scheme (DTP reference
-BB/M011194/1).
+BB/M011194/1).  This work follows on from earlier implementations by
+ [George Baxter](https://github.com/geobax/correlated_activity_76) and
+ [Tom Bland](https://github.com/tsmbland/RetinotopicMaps) as part of their part III Systems
+Biology projects.
+
+
+
+
+
+
