@@ -1,0 +1,6 @@
+dependencies:
+  - matplotlib
+  - numpy
+  - scipy
+  - ipywidgets
+  - networkx
