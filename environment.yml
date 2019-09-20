@@ -4,3 +4,4 @@ dependencies:
   - scipy
   - ipywidgets
   - networkx
+  - ffmpeg
