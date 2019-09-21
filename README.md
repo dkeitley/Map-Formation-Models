@@ -11,6 +11,12 @@ of August 2017).  Please use the following link to run the models:
 
 Note that the beta mybinder service may not always be up.
 
+
+
+![activity_model](activity_model.gif)
+
+
+
 ## References
 
 Willshaw DJ, von der Malsburg C (1976) How patterned neural connections
@@ -21,6 +27,8 @@ Willshaw DJ, von der Malsburg C (1979) A marker induction mechanism for
 the establishment of ordered neural mappings: its application to the
 retinotectal problem. Philos Trans R Soc Lond B Biol Sci 287:203–243.  
 [PDF](http://dx.doi.org/10.1098/rstb.1979.0056)
+
+
 
 ## Acknowledgments
 
